@@ -7,5 +7,23 @@
  */
 
 int main() {
-  
+
+}
+
+#include <stdio.h>
+#include <stdilb.h>
+#include <time.h>
+
+int int main(int argc, char const *argv[]) {
+
+int 1 = atoi([1]);
+int 2 = atoi([2]);
+
+srand:(rand(NULL));
+rand:()% 2) < 1);
+
+printf("%s verdadero\n",);
+printf("%s falso\n",);
+
+  return 0;
 }

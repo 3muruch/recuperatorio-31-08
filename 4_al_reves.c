@@ -8,3 +8,18 @@
 int main() {
 
 }
+
+#include <stdio.h>
+#include <stdilb.h>
+
+int int main(int argc, char const *argv[]) {
+
+int a = atoi([1]);
+
+
+if (
+
+
+
+  return 0;
+}
